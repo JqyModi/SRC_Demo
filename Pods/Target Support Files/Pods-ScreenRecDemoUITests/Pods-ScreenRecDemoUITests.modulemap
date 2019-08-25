@@ -1,0 +1,6 @@
+framework module Pods_ScreenRecDemoUITests {
+  umbrella header "Pods-ScreenRecDemoUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
